@@ -1,0 +1,6 @@
+*.apk
+.env
+*.key
+*.pem
+/android/app/build/
+/android/build/
